@@ -6,7 +6,7 @@
 ### 2. 在本地创建一个文件夹，初始化为git仓库
 `git init`
 
-### 3. 新建一个文件readme.md
+### 3. 新建一个文件 readme.md
 
 ### 4. 将工作区文件添加到版本库缓存区
 `git add readme.md`
@@ -17,7 +17,7 @@
 `git commit -m "提交的消息"`
 
 ### 6. 添加远程仓库，也就是github上的仓库地址
-`git remote add origin https://github.com/scieny/test.git`
+`git remote test origin https://github.com/scieny/test.git`
 
 ### 7. 将本地仓库推送到远程仓库
-`git puth -u orgin master`
+`git push -u orgin master`
