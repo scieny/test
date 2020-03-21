@@ -21,3 +21,8 @@
 
 ### 7. 将本地仓库推送到远程仓库
 `git push -u test master`
+
+### 创建SSH Key
+`ssh-keygen -t rsa -C "scieny@gmail.com"`
+
+将/Users/scien/.ssh/id_rsa.pub中的内容复制到github、Setting中的SSH keys
