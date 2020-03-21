@@ -20,4 +20,4 @@
 `git remote test origin https://github.com/scieny/test.git`
 
 ### 7. 将本地仓库推送到远程仓库
-`git push -u orgin master`
+`git push -u test master`
