@@ -20,3 +20,4 @@
 `git remote add origin https://github.com/scieny/test.git`
 
 ### 7. 将本地仓库推送到远程仓库
+`git puth -u orgin master`
