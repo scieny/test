@@ -22,6 +22,8 @@
 ### 7. 将本地仓库推送到远程仓库
 `git push -u test master`
 
+* 参数 -u 以后就可以直接使用不带别的参数的git pull
+
 ### 创建SSH Key
 `ssh-keygen -t rsa -C "scieny@gmail.com"`
 
